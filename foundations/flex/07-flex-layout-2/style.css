@@ -48,10 +48,9 @@ body {
 
 .cards {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   padding: 48px;
-  gap: 48px;
+  gap: 32px;
 }
 
 .middle {
