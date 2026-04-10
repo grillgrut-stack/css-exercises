@@ -4,7 +4,6 @@
   display: flex;
   align-items: center;
   padding: 10px;
-  display: flex;
   justify-content: space-between;
 
 }
@@ -25,9 +24,10 @@ li {
 }
 
 ul {
-  display: flex;
-  flex-direction: row;
   list-style-type: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
 }
 
 a {
